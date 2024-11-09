@@ -1,8 +1,26 @@
 ﻿@*Import the models*@
-@model List<WellNote.Models.User>
+@model WellNote.Models.User
 
 @{
-    ViewData["Title"] = "Home Page";
+    if (ViewData != null)
+    {
+        ViewData["Title"] = "Home Page";
+    }
 }
 
-<h1>Welcome, @Model.</h1>
+<h1>Welcome, @Model.Id) @Model.username</h1>
+
+<div class="form-group">
+    <form asp-action="Water" method="get">
+        <input type="hidden" asp-for="Id" />
+        <button type="submit">Log Water Intake</button>
+    </form>
+</div>
+
+
+<div class="form-group">
+    <form asp-action="Sleep" method="get">
+        <input type="hidden" asp-for="Id" />
+        <button type="submit">Log Sleep Duration</button>
+    </form>
+</div>

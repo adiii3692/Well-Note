@@ -3,55 +3,68 @@
   "WorkspaceRootPath": "C:\\Users\\adina\\Desktop\\code\\WellNote\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2B3245C5-8B94-4C5E-AEC8-8A1946C52629}|WellNote.csproj|c:\\users\\adina\\desktop\\code\\wellnote\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{2B3245C5-8B94-4C5E-AEC8-8A1946C52629}|WellNote.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{2B3245C5-8B94-4C5E-AEC8-8A1946C52629}|WellNote.csproj|c:\\users\\adina\\desktop\\code\\wellnote\\views\\app\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B3245C5-8B94-4C5E-AEC8-8A1946C52629}|WellNote.csproj|solutionrelative:views\\app\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2B3245C5-8B94-4C5E-AEC8-8A1946C52629}|WellNote.csproj|c:\\users\\adina\\desktop\\code\\wellnote\\controllers\\appcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2B3245C5-8B94-4C5E-AEC8-8A1946C52629}|WellNote.csproj|solutionrelative:controllers\\appcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B3245C5-8B94-4C5E-AEC8-8A1946C52629}|WellNote.csproj|c:\\users\\adina\\desktop\\code\\wellnote\\views\\app\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2B3245C5-8B94-4C5E-AEC8-8A1946C52629}|WellNote.csproj|solutionrelative:views\\app\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{2B3245C5-8B94-4C5E-AEC8-8A1946C52629}|WellNote.csproj|c:\\users\\adina\\desktop\\code\\wellnote\\views\\app\\sleep.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B3245C5-8B94-4C5E-AEC8-8A1946C52629}|WellNote.csproj|solutionrelative:views\\app\\sleep.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2B3245C5-8B94-4C5E-AEC8-8A1946C52629}|WellNote.csproj|c:\\users\\adina\\desktop\\code\\wellnote\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{2B3245C5-8B94-4C5E-AEC8-8A1946C52629}|WellNote.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{2B3245C5-8B94-4C5E-AEC8-8A1946C52629}|WellNote.csproj|c:\\users\\adina\\desktop\\code\\wellnote\\views\\app\\water.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B3245C5-8B94-4C5E-AEC8-8A1946C52629}|WellNote.csproj|solutionrelative:views\\app\\water.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
-      "VerticalTabListWidth": 100,
+      "VerticalTabListWidth": 162,
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\adina\\Desktop\\code\\WellNote\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\adina\\Desktop\\code\\WellNote\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-07T06:26:50.541Z",
+              "DocumentIndex": 2,
+              "Title": "Sleep.cshtml",
+              "DocumentMoniker": "C:\\Users\\adina\\Desktop\\code\\WellNote\\Views\\App\\Sleep.cshtml",
+              "RelativeDocumentMoniker": "Views\\App\\Sleep.cshtml",
+              "ToolTip": "C:\\Users\\adina\\Desktop\\code\\WellNote\\Views\\App\\Sleep.cshtml",
+              "RelativeToolTip": "Views\\App\\Sleep.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-09T03:56:56.04Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\adina\\Desktop\\code\\WellNote\\Views\\App\\Login.cshtml",
-              "RelativeDocumentMoniker": "Views\\App\\Login.cshtml",
-              "ToolTip": "C:\\Users\\adina\\Desktop\\code\\WellNote\\Views\\App\\Login.cshtml",
-              "RelativeToolTip": "Views\\App\\Login.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAuAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "Water.cshtml",
+              "DocumentMoniker": "C:\\Users\\adina\\Desktop\\code\\WellNote\\Views\\App\\Water.cshtml",
+              "RelativeDocumentMoniker": "Views\\App\\Water.cshtml",
+              "ToolTip": "C:\\Users\\adina\\Desktop\\code\\WellNote\\Views\\App\\Water.cshtml",
+              "RelativeToolTip": "Views\\App\\Water.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-07T05:23:42.671Z",
+              "WhenOpened": "2024-11-09T03:56:38.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\adina\\Desktop\\code\\WellNote\\Views\\App\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\App\\Index.cshtml",
+              "ToolTip": "C:\\Users\\adina\\Desktop\\code\\WellNote\\Views\\App\\Index.cshtml",
+              "RelativeToolTip": "Views\\App\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-09T02:54:45.768Z",
               "EditorCaption": ""
             },
             {
@@ -62,22 +75,9 @@
               "RelativeDocumentMoniker": "Controllers\\AppController.cs",
               "ToolTip": "C:\\Users\\adina\\Desktop\\code\\WellNote\\Controllers\\AppController.cs",
               "RelativeToolTip": "Controllers\\AppController.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAowBQAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAmwGcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-07T05:18:59.031Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\adina\\Desktop\\code\\WellNote\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\adina\\Desktop\\code\\WellNote\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-06T16:27:59.673Z",
               "EditorCaption": ""
             }
           ]

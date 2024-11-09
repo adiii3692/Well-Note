@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WellNote")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b3169060793252a0ddd795ccfc8f8fe5fd8e0ac2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fe3d6a6fdb2b7f2f6b1a8da11c6a150d4fd5ea20")]
 [assembly: System.Reflection.AssemblyProductAttribute("WellNote")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WellNote")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
