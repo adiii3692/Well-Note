@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAETOIM9VDz0+6NU1lkThkFwAAAAACAAAAAAAQZgAAAAEAACAAAAD5vF6LXbfCw+uWWVwG81XzEGMezVxPMeUoD9jXB4z3LQAAAAAOgAAAAAIAACAAAAAioD3vqKUTbyaxdos2A75+qgEMr8bI2xow/doGX6orCYAAAACvu+Lrs427f0DrgsxI5Rz5hgK2chk417jNShI8QUG24U1eAE7bqLXisT6bHFfWcQO5bVFC6TEZfWK/nzj63PlPl7eLaytyQdLpKS9M/Qrtctmw/vC3gEAUFfR5EUBK7uvSjkvNxuUhhY8pxSU0P3bsoemBjStXstLrNO76STI24UAAAAB+9ALBJQUGNBBhniqKf9Ax9RXGzTWOC6rmyTRGxoMloFpLUkDmWzvvfyhSarpt8W6lh1AuEItvSRqyWeqn12d7</EncryptedPassword>
+    <History>True|2025-05-07T01:47:37.6752399Z||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnectionString">
+      <Value>Data Source=wellnotedbserver.database.windows.net,1433%3bInitial Catalog=WellNote_db%3bUser ID=adiii3692%3bPassword=Ra27ni03</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="WellNote.Data.WellNoteContext">
+      <Value>Data Source=wellnotedbserver.database.windows.net,1433%3bInitial Catalog=WellNote_db%3bUser ID=adiii3692%3bPassword=Ra27ni03</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="WellNote" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\adina\\Desktop\\code\\WellNote\\obj\\Release\\net8\.0\\PubTmp\\Out\\$" />
+  </parameter>
+  <parameter name="WellNote.Data.WellNoteContext" description="" value="Data Source=wellnotedbserver.database.windows.net,1433;Initial Catalog=WellNote_db;User ID=adiii3692;Password=Ra27ni03" tags="dbfullsql">
+    <parameterEntry kind="ProviderPath" scope="dbfullsql" match="^C:\\Users\\adina\\Desktop\\code\\WellNote\\obj\\Release\\net8\.0\\PubTmp\\EFSQLScripts\\WellNote\.Data\.WellNoteContext\.sql$" />
+  </parameter>
+</parameters>
